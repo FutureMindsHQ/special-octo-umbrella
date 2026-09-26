@@ -1,0 +1,689 @@
+[
+  {
+    "id": "nu",
+    "name": "Nazarbayev University",
+    "country": "Казахстан",
+    "city": "Астана",
+    "majors": [
+      "Computer Science",
+      "Engineering",
+      "Medicine",
+      "Economics"
+    ],
+    "gpaMin": 3.6,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "Гранты покрывают большинство мест",
+    "docs": [
+      "Аттестат",
+      "IELTS/TOEFL",
+      "Эссе",
+      "Рекомендательные письма"
+    ],
+    "deadline": "Апрель (демо-дата)",
+    "site": "https://nu.edu.kz"
+  },
+  {
+    "id": "kaznu",
+    "name": "Al-Farabi KazNU",
+    "country": "Казахстан",
+    "city": "Алматы",
+    "majors": [
+      "Economics",
+      "Medicine",
+      "Law",
+      "Computer Science"
+    ],
+    "gpaMin": 3.2,
+    "english": "IELTS 5.5+",
+    "engPct": 55,
+    "sat": false,
+    "tuition": "Гранты + платное",
+    "docs": [
+      "Аттестат",
+      "Сертификат языка"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://kaznu.kz"
+  },
+  {
+    "id": "enu",
+    "name": "L.N. Gumilyov ENU",
+    "country": "Казахстан",
+    "city": "Астана",
+    "majors": [
+      "Law",
+      "International Relations",
+      "Computer Science"
+    ],
+    "gpaMin": 3.0,
+    "english": "IELTS 5.5+",
+    "engPct": 55,
+    "sat": false,
+    "tuition": "Гранты + платное",
+    "docs": [
+      "Аттестат",
+      "Сертификат языка"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://enu.kz"
+  },
+  {
+    "id": "satbayev",
+    "name": "Satbayev University",
+    "country": "Казахстан",
+    "city": "Алматы",
+    "majors": [
+      "Mining Engineering",
+      "Civil Engineering",
+      "Petroleum Engineering"
+    ],
+    "gpaMin": 2.9,
+    "english": "IELTS 5.0+",
+    "engPct": 50,
+    "sat": false,
+    "tuition": "Гранты доступны",
+    "docs": [
+      "Аттестат",
+      "Сертификат языка"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://satbayev.university"
+  },
+  {
+    "id": "aitu",
+    "name": "Astana IT University",
+    "country": "Казахстан",
+    "city": "Астана",
+    "majors": [
+      "Computer Science",
+      "Data Science",
+      "Cybersecurity"
+    ],
+    "gpaMin": 3.0,
+    "english": "IELTS 5.5+",
+    "engPct": 55,
+    "sat": false,
+    "tuition": "Гранты доступны",
+    "docs": [
+      "Аттестат",
+      "Портфолио проектов"
+    ],
+    "deadline": "Июнь (демо-дата)",
+    "site": "https://astanait.edu.kz"
+  },
+  {
+    "id": "kbtu",
+    "name": "KBTU",
+    "country": "Казахстан",
+    "city": "Алматы",
+    "majors": [
+      "Computer Science",
+      "Engineering",
+      "Economics"
+    ],
+    "gpaMin": 3.0,
+    "english": "IELTS 5.5+",
+    "engPct": 55,
+    "sat": false,
+    "tuition": "Гранты + платное",
+    "docs": [
+      "Аттестат",
+      "Мотивационное письмо"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://kbtu.edu.kz"
+  },
+  {
+    "id": "sdu",
+    "name": "SDU University",
+    "country": "Казахстан",
+    "city": "Каскелен",
+    "majors": [
+      "Computer Science",
+      "Business Administration"
+    ],
+    "gpaMin": 2.8,
+    "english": "IELTS 5.0+",
+    "engPct": 50,
+    "sat": false,
+    "tuition": "Гранты доступны",
+    "docs": [
+      "Аттестат"
+    ],
+    "deadline": "Август (демо-дата)",
+    "site": "https://sdu.edu.kz"
+  },
+  {
+    "id": "kimep",
+    "name": "KIMEP University",
+    "country": "Казахстан",
+    "city": "Алматы",
+    "majors": [
+      "Business Administration",
+      "Finance",
+      "Law"
+    ],
+    "gpaMin": 3.0,
+    "english": "IELTS 5.5+",
+    "engPct": 55,
+    "sat": false,
+    "tuition": "Платное + гранты",
+    "docs": [
+      "Аттестат",
+      "Эссе"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://kimep.kz"
+  },
+  {
+    "id": "almau",
+    "name": "AlmaU",
+    "country": "Казахстан",
+    "city": "Алматы",
+    "majors": [
+      "Marketing",
+      "Business Administration",
+      "Design"
+    ],
+    "gpaMin": 2.7,
+    "english": "IELTS 5.0+",
+    "engPct": 50,
+    "sat": false,
+    "tuition": "Платное + гранты",
+    "docs": [
+      "Аттестат"
+    ],
+    "deadline": "Август (демо-дата)",
+    "site": "https://almau.edu.kz"
+  },
+  {
+    "id": "buketov",
+    "name": "Karaganda Buketov University",
+    "country": "Казахстан",
+    "city": "Караганда",
+    "majors": [
+      "Education",
+      "History",
+      "Biology"
+    ],
+    "gpaMin": 2.7,
+    "english": "IELTS 4.5+",
+    "engPct": 40,
+    "sat": false,
+    "tuition": "Гранты доступны",
+    "docs": [
+      "Аттестат"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://buketov.edu.kz"
+  },
+  {
+    "id": "mit",
+    "name": "MIT",
+    "country": "США",
+    "city": "Кембридж",
+    "majors": [
+      "Computer Science",
+      "Engineering",
+      "Physics"
+    ],
+    "gpaMin": 3.9,
+    "english": "IELTS 7.5+",
+    "engPct": 88,
+    "sat": false,
+    "tuition": "Need-blind aid для международных",
+    "docs": [
+      "Эссе x5",
+      "Рекомендации",
+      "SAT/ACT",
+      "Портфолио"
+    ],
+    "deadline": "1 января (демо-дата)",
+    "site": "https://mit.edu"
+  },
+  {
+    "id": "stanford",
+    "name": "Stanford University",
+    "country": "США",
+    "city": "Стэнфорд",
+    "majors": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Business Administration"
+    ],
+    "gpaMin": 3.9,
+    "english": "IELTS 7.0+",
+    "engPct": 85,
+    "sat": false,
+    "tuition": "Need-based aid (демо)",
+    "docs": [
+      "Эссе",
+      "Рекомендации",
+      "SAT/ACT"
+    ],
+    "deadline": "Январь (демо-дата)",
+    "site": "https://stanford.edu"
+  },
+  {
+    "id": "harvard",
+    "name": "Harvard University",
+    "country": "США",
+    "city": "Кембридж",
+    "majors": [
+      "Law",
+      "Economics",
+      "Medicine"
+    ],
+    "gpaMin": 3.9,
+    "english": "IELTS 7.5+",
+    "engPct": 88,
+    "sat": false,
+    "tuition": "Need-blind aid (демо)",
+    "docs": [
+      "Эссе",
+      "Рекомендации",
+      "SAT/ACT"
+    ],
+    "deadline": "Январь (демо-дата)",
+    "site": "https://harvard.edu"
+  },
+  {
+    "id": "uoft",
+    "name": "University of Toronto",
+    "country": "Канада",
+    "city": "Торонто",
+    "majors": [
+      "Computer Science",
+      "Economics",
+      "Medicine"
+    ],
+    "gpaMin": 3.7,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "От $45,000/год (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе",
+      "IELTS"
+    ],
+    "deadline": "Январь (демо-дата)",
+    "site": "https://utoronto.ca"
+  },
+  {
+    "id": "ubc",
+    "name": "University of British Columbia",
+    "country": "Канада",
+    "city": "Ванкувер",
+    "majors": [
+      "Environmental Engineering",
+      "Biology",
+      "Business Administration"
+    ],
+    "gpaMin": 3.5,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "От $40,000/год (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе"
+    ],
+    "deadline": "Январь (демо-дата)",
+    "site": "https://ubc.ca"
+  },
+  {
+    "id": "oxford",
+    "name": "University of Oxford",
+    "country": "Великобритания",
+    "city": "Оксфорд",
+    "majors": [
+      "Law",
+      "Philosophy",
+      "Medicine"
+    ],
+    "gpaMin": 3.8,
+    "english": "IELTS 7.0+",
+    "engPct": 85,
+    "sat": false,
+    "tuition": "Scholarships доступны (демо)",
+    "docs": [
+      "Эссе",
+      "Рекомендации",
+      "Собеседование"
+    ],
+    "deadline": "Октябрь (демо-дата)",
+    "site": "https://ox.ac.uk"
+  },
+  {
+    "id": "imperial",
+    "name": "Imperial College London",
+    "country": "Великобритания",
+    "city": "Лондон",
+    "majors": [
+      "Mechanical Engineering",
+      "Computer Science",
+      "Physics"
+    ],
+    "gpaMin": 3.7,
+    "english": "IELTS 6.5+",
+    "engPct": 75,
+    "sat": false,
+    "tuition": "От £32,000/год (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе"
+    ],
+    "deadline": "Январь (демо-дата)",
+    "site": "https://imperial.ac.uk"
+  },
+  {
+    "id": "sorbonne",
+    "name": "Sorbonne University",
+    "country": "Франция",
+    "city": "Париж",
+    "majors": [
+      "Linguistics",
+      "Art History",
+      "Chemistry"
+    ],
+    "gpaMin": 3.2,
+    "english": "IELTS 6.0+",
+    "engPct": 60,
+    "sat": false,
+    "tuition": "Символическая плата (демо)",
+    "docs": [
+      "Транскрипт",
+      "Французский/английский сертификат"
+    ],
+    "deadline": "Март (демо-дата)",
+    "site": "https://sorbonne-universite.fr"
+  },
+  {
+    "id": "tum",
+    "name": "TU Munich",
+    "country": "Германия",
+    "city": "Мюнхен",
+    "majors": [
+      "Mechanical Engineering",
+      "Computer Science",
+      "Physics"
+    ],
+    "gpaMin": 3.3,
+    "english": "IELTS 6.0+",
+    "engPct": 60,
+    "sat": false,
+    "tuition": "Символическая плата (демо)",
+    "docs": [
+      "Транскрипт",
+      "Немецкий/английский сертификат"
+    ],
+    "deadline": "15 июля (демо-дата)",
+    "site": "https://tum.de"
+  },
+  {
+    "id": "lmu",
+    "name": "LMU Munich",
+    "country": "Германия",
+    "city": "Мюнхен",
+    "majors": [
+      "Medicine",
+      "Biology",
+      "Psychology"
+    ],
+    "gpaMin": 3.4,
+    "english": "IELTS 6.0+",
+    "engPct": 60,
+    "sat": false,
+    "tuition": "Символическая плата (демо)",
+    "docs": [
+      "Транскрипт"
+    ],
+    "deadline": "15 июля (демо-дата)",
+    "site": "https://lmu.de"
+  },
+  {
+    "id": "tudelft",
+    "name": "TU Delft",
+    "country": "Нидерланды",
+    "city": "Делфт",
+    "majors": [
+      "Civil Engineering",
+      "Aerospace Engineering",
+      "Architecture"
+    ],
+    "gpaMin": 3.4,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "От €2,500/год для EU, выше для остальных (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе"
+    ],
+    "deadline": "Май (демо-дата)",
+    "site": "https://tudelft.nl"
+  },
+  {
+    "id": "ethz",
+    "name": "ETH Zurich",
+    "country": "Швейцария",
+    "city": "Цюрих",
+    "majors": [
+      "Mathematics",
+      "Physics",
+      "Computer Science"
+    ],
+    "gpaMin": 3.7,
+    "english": "IELTS 7.0+",
+    "engPct": 80,
+    "sat": false,
+    "tuition": "Низкая плата (демо)",
+    "docs": [
+      "Транскрипт",
+      "Экзамен"
+    ],
+    "deadline": "Апрель (демо-дата)",
+    "site": "https://ethz.ch"
+  },
+  {
+    "id": "polimi",
+    "name": "Politecnico di Milano",
+    "country": "Италия",
+    "city": "Милан",
+    "majors": [
+      "Architecture",
+      "Industrial Design",
+      "Civil Engineering"
+    ],
+    "gpaMin": 3.2,
+    "english": "IELTS 6.0+",
+    "engPct": 60,
+    "sat": false,
+    "tuition": "От €4,000/год (демо)",
+    "docs": [
+      "Транскрипт",
+      "Тест TOLC"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://polimi.it"
+  },
+  {
+    "id": "uc3m",
+    "name": "Universidad Carlos III",
+    "country": "Испания",
+    "city": "Мадрид",
+    "majors": [
+      "Economics",
+      "Journalism",
+      "Law"
+    ],
+    "gpaMin": 3.0,
+    "english": "IELTS 5.5+",
+    "engPct": 55,
+    "sat": false,
+    "tuition": "От €4,500/год (демо)",
+    "docs": [
+      "Транскрипт"
+    ],
+    "deadline": "Июнь (демо-дата)",
+    "site": "https://uc3m.es"
+  },
+  {
+    "id": "kaist",
+    "name": "KAIST",
+    "country": "Южная Корея",
+    "city": "Тэджон",
+    "majors": [
+      "Computer Science",
+      "Robotics",
+      "Materials Science"
+    ],
+    "gpaMin": 3.6,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "Стипендии доступны (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе"
+    ],
+    "deadline": "Сентябрь (демо-дата)",
+    "site": "https://kaist.ac.kr"
+  },
+  {
+    "id": "utokyo",
+    "name": "University of Tokyo",
+    "country": "Япония",
+    "city": "Токио",
+    "majors": [
+      "Physics",
+      "Engineering",
+      "Economics"
+    ],
+    "gpaMin": 3.6,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "Низкая плата для стипендиатов (демо)",
+    "docs": [
+      "Транскрипт",
+      "Экзамен EJU"
+    ],
+    "deadline": "Ноябрь (демо-дата)",
+    "site": "https://u-tokyo.ac.jp"
+  },
+  {
+    "id": "tsinghua",
+    "name": "Tsinghua University",
+    "country": "Китай",
+    "city": "Пекин",
+    "majors": [
+      "Computer Science",
+      "Civil Engineering",
+      "Economics"
+    ],
+    "gpaMin": 3.6,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "Стипендии CSC доступны (демо)",
+    "docs": [
+      "Транскрипт",
+      "HSK/английский тест"
+    ],
+    "deadline": "Февраль (демо-дата)",
+    "site": "https://tsinghua.edu.cn"
+  },
+  {
+    "id": "nus",
+    "name": "National University of Singapore",
+    "country": "Сингапур",
+    "city": "Сингапур",
+    "majors": [
+      "Computer Science",
+      "Economics",
+      "Medicine"
+    ],
+    "gpaMin": 3.6,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "Гранты доступны (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе",
+      "Рекомендации"
+    ],
+    "deadline": "Февраль (демо-дата)",
+    "site": "https://nus.edu.sg"
+  },
+  {
+    "id": "unimelb",
+    "name": "University of Melbourne",
+    "country": "Австралия",
+    "city": "Мельбурн",
+    "majors": [
+      "Psychology",
+      "Business Administration",
+      "Biology"
+    ],
+    "gpaMin": 3.4,
+    "english": "IELTS 6.5+",
+    "engPct": 70,
+    "sat": false,
+    "tuition": "От AUD 40,000/год (демо)",
+    "docs": [
+      "Транскрипт",
+      "Эссе"
+    ],
+    "deadline": "Октябрь (демо-дата)",
+    "site": "https://unimelb.edu.au"
+  },
+  {
+    "id": "kaust",
+    "name": "KAUST",
+    "country": "ОАЭ/регион Персидского залива",
+    "city": "Тувал",
+    "majors": [
+      "Materials Science",
+      "Computer Science",
+      "Environmental Engineering"
+    ],
+    "gpaMin": 3.5,
+    "english": "IELTS 6.0+",
+    "engPct": 65,
+    "sat": false,
+    "tuition": "Полное покрытие для магистратуры (демо)",
+    "docs": [
+      "Транскрипт",
+      "Research proposal"
+    ],
+    "deadline": "Март (демо-дата)",
+    "site": "https://kaust.edu.sa"
+  },
+  {
+    "id": "bogazici",
+    "name": "Boğaziçi University",
+    "country": "Турция",
+    "city": "Стамбул",
+    "majors": [
+      "Computer Science",
+      "Economics",
+      "Mechanical Engineering"
+    ],
+    "gpaMin": 3.2,
+    "english": "IELTS 6.0+",
+    "engPct": 60,
+    "sat": false,
+    "tuition": "Низкая плата (демо)",
+    "docs": [
+      "Транскрипт",
+      "YOS/SAT"
+    ],
+    "deadline": "Июль (демо-дата)",
+    "site": "https://boun.edu.tr"
+  }
+]
